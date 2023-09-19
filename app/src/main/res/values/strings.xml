@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Day16_SmartHomeApp</string>
+    <string name="weather_data"><![CDATA[12° & Sunny]]></string>
+    <string name="datetime_data">Monday, 28-0-2023, 9:31 AM</string>
+    <string name="front_door">Front Door</string>
+    <string name="door_stats">Closed • 95% Battery Left</string>
+    <string name="add_edit_modules"><![CDATA[Add & Edit Modules]]></string>
+    <string name="modules_example">Garage, Doors, Windows, Internet, Lights, Appliances</string>
+    <string name="family">Family</string>
+    <string name="_4_members">4 Members</string>
+    <string name="office_light">Office Light</string>
+    <string name="off">Off</string>
+    <string name="smart_tv">Smart TV</string>
+    <string name="tv_specs">On • LG 55</string>
+    <string name="thermostat">Thermostat</string>
+    <string name="_24">24°</string>
+    <string name="recording">Recording</string>
+    <string name="cameras">Cameras</string>
+    <string name="wifi">WiFi</string>
+    <string name="on_upc1192">On • UPC1192</string>
+</resources>
